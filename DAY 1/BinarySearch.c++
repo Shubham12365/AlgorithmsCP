@@ -28,3 +28,10 @@ int main(){
 
     return 0;
 }
+/*Time Complexity
+
+    Best Case= O(1)
+    Average Case= O(logn)
+    Worst Case= O(logn)
+*/
+
