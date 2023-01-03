@@ -38,3 +38,11 @@ int main(){
     for(int i=0;i<n;i++)cout<<arr[i]<<" ";
     return 0;
 }
+
+/*Time Complexity
+
+    Best Case= O(n^2)
+    Average Case= O(n^2)
+    Worst Case= O(n^2)
+*/
+
