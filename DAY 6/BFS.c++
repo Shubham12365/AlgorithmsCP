@@ -41,3 +41,5 @@ int main()
     bfs(1, adj, n);
     return 0;
 }
+
+Time Complexity: O(V+E)
